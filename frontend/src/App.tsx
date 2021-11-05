@@ -2,10 +2,11 @@ import BarChart from 'components/BarChart';
 import DataTable from 'components/DataTable';
 import Footer from 'components/Footer';
 import NavBar from 'components/NavBar';
-import DonutChartgit from 'components/DonutChart';
+import DonutChart from 'components/DonutChart';
 
 function App() {
   return (
+    
     <>
       <NavBar />
       <div className="container">
